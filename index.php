@@ -1,24 +1,20 @@
-<html>
-
-<html>
-<center><head><h1><font color="#FFFFFF">Profile</font></h1></head><center><br>
-<body bgcolor = "gray"><br>
-<center><a href="[url=http://www.mx7.com/view2/yLoJVotWL4aXqcEx][img]http://www.mx7.com/i/405/8LjOe1.jpg[/img][/url]></a>
-<center>
-<center><h2><font color="#FFFFFF">
-  I would like to introduce myself. <br>
-  My name is Theerawat Jongjaroen My nickname Arm . <br> 
-  I was born on September 27,1994 I am 21 years old.<br>
-  I am tird 1st year student at faculty of Seience and Technology.<br> 
-  My major is Information and communication technology at University of the Thai Chamber of Commerce.
-</font></h2>
-
-</center>
-</body>
-</html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
 
 <body>
-5805404010. 
+<p><center><h1>profile</h1></center>
+<p><center><a href="http://s1040.photobucket.com/user/Arm_Theerawat/media/11219663_968700609864611_4747821544399021318_n_zpsswb52dnm.jpg.html" target="_blank"><img src="http://i1040.photobucket.com/albums/b410/Arm_Theerawat/11219663_968700609864611_4747821544399021318_n_zpsswb52dnm.jpg" border="0" alt=" photo 11219663_968700609864611_4747821544399021318_n_zpsswb52dnm.jpg"/></a></center></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><h3><center>I would like to introduce myself. <br />
+  My name is Theerawat Jongjaroen My nickname Arm . <br />
+  I was born on September 27,1994 I am 21 years old.<br />
+  I am tird 1st year student at faculty of Seience and Technology.<br />
+  My major is Information and communication technology at University of the Thai Chamber of Commerce.<br />
+  5805404010.</center></h3>
+</p>
 </body>
-
 </html>
