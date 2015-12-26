@@ -5,7 +5,7 @@
 <title>5805404010</title>
 </head>
 
-<body bgcolor="black">
+<body bgcolor="#ffc961">
 <p><center><h1>profile</h1></center>
 <p><center><a href="http://s1040.photobucket.com/user/Arm_Theerawat/media/11219663_968700609864611_4747821544399021318_n_zpsswb52dnm.jpg.html" target="_blank"><img src="http://i1040.photobucket.com/albums/b410/Arm_Theerawat/11219663_968700609864611_4747821544399021318_n_zpsswb52dnm.jpg" border="0" alt=" photo 11219663_968700609864611_4747821544399021318_n_zpsswb52dnm.jpg"/></a></center></p>
 <p>&nbsp;</p>
